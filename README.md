@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/4689415.png)
+[![MasterHead](https://wallpaperaccess.com/full/4689415.png)](https://minumzu.netlify.app/)
 <h1 align="center">Hi 👋, I'm Minu</h1>
 <h3 align="center">I'm looking for a planet where I can use font-size: infinite;</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" >
